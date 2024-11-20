@@ -15,4 +15,5 @@ A comunicação entre o S7-1200 e o SR-1000 é realizada através da rede Profin
   - PLC S7-1200 ou S7-1500
   - SR GSML file
   - AutoID Network Navigator
+    
 ![PROFINET](https://github.com/user-attachments/assets/ada8d31e-add7-4600-a1c2-84a33402e954)
