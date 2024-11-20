@@ -12,6 +12,6 @@ A comunicação entre o S7-1200 e o SR-1000 é realizada através da rede Profin
 ## Dependências
 
   - TIA Portal V15.1
-	- PLC S7-1200 ou S7-1500
-	- SR GSML file
-	- AutoID Network Navigator
+  - PLC S7-1200 ou S7-1500
+  - SR GSML file
+  - AutoID Network Navigator
