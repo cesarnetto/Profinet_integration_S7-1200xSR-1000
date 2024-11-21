@@ -1,6 +1,6 @@
 # Integração Profinet SR-1000 x S7-1200
 
-## Resumo
+## Introdução
 
 Este projeto tem como objetivo a integração entre o dispositivo SR-1000 e o controlador S7-1200 utilizando o protocolo de comunicação Profinet. 
 A solução permite a troca de dados entre o SR-1000 e o PLC S7-1200.
@@ -11,9 +11,9 @@ A comunicação entre o S7-1200 e o SR-1000 é realizada através da rede Profin
 
 ## Dependências
 
-  - TIA Portal V15.1
-  - PLC S7-1200 ou S7-1500
-  - SR GSML file
-  - AutoID Network Navigator
+  - PLC Siemens S7-1200;
+  - Leitor de código SR-1000 da Keyence com interface Profinet; 
+  - Software TIA Portal para programação e configuração do PLC V15.1;
+  - AutoID Network Navigator Software para cofiguração do leitor.
     
 ![PROFINET](https://github.com/user-attachments/assets/ada8d31e-add7-4600-a1c2-84a33402e954)
