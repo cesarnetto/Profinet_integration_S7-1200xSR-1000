@@ -16,4 +16,3 @@ A comunicação entre o S7-1200 e o SR-1000 é realizada através da rede Profin
   - Software TIA Portal para programação e configuração do PLC V15.1;
   - AutoID Network Navigator Software para cofiguração do leitor.
     
-![PROFINET](https://github.com/user-attachments/assets/ada8d31e-add7-4600-a1c2-84a33402e954)
